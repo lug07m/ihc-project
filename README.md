@@ -24,7 +24,9 @@ Desarrollar una plataforma web intuitiva que permita a los usuarios gestionar ef
 - ✅ Proporcionar metas de ahorro energético personalizadas
 - ✅ Ofrecer notificaciones y recomendaciones inteligentes
 
+
 ## ✨ Características Principales
+
 
 ### 🏠 Dashboard Principal
 - Vista general del consumo energético
